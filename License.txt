@@ -1,5 +1,9 @@
 Mitd License
+<<<<<<< HEAD
 gggg
 gggg
 fffff
 ffffff
+=======
+feature2
+>>>>>>> feature2
